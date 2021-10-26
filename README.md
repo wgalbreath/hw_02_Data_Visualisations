@@ -1,12 +1,14 @@
 # Data Visualisations
-## Nobel Prizes: Individuals vs. Organizations
-Here is my description part 2
+In this repository, I showcase my graphs that I created in python for this homework assignment!
 
-![Screen Shot 2021-10-25 at 7 31 17 PM](https://user-images.githubusercontent.com/67754864/138801805-92732aad-5a97-4a1a-b5b0-5085a4b4e85a.png)
+## Nobel Prizes: Individuals vs. Organizations
+For this graph, I looked at Nobel Prizes and compared the number of individual winners versus the number of organizations that have won multiple prizes. It was interesting to find out how few organizations had won multiple times, particularly for the number of other large social-impact organizations there are in addition to the Red Cross and United Nations. I also did not realize that the committee who awards Nobel Prizes gives has to select either an individual or an organization. 
+
+![Screen Shot 2021-10-25 at 8 08 18 PM](https://user-images.githubusercontent.com/67754864/138802376-1ab6dc14-2de8-4dd5-a876-6a63caeb31d1.png)
 
 
 ## Nobel Prizes: Physics vs. Economics
-Here is my description
+This chart compares the number of awards given in each respective category for the given year. This chart does not show data from all the years in the given data or all the categories of Nobel Prizes. However, the chart gives a representation and the overal trend from year to year of the number of prizes per category, being one. While there are some extraneous examples of years when there are not prizes awarded in some years, this chart shows the general trend.
 
 ![Screen Shot 2021-10-25 at 7 56 10 PM](https://user-images.githubusercontent.com/67754864/138801820-aad65340-c22c-4cc3-b865-9d8a14df35cf.png)
 
