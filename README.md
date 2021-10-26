@@ -16,3 +16,4 @@ Here's the [laureate dataset](http://api.nobelprize.org/v1/laureate.json).
 ![Screen Shot 2021-10-25 at 7 56 10 PM](https://user-images.githubusercontent.com/67754864/138801820-aad65340-c22c-4cc3-b865-9d8a14df35cf.png)
 
 
+Thanks for checking out my page. Stay safe and stay healthy!
