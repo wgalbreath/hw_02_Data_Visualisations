@@ -10,7 +10,7 @@ Here's the [prizes dataset](http://api.nobelprize.org/v1/prize.json).
 
 
 ## Nobel Prizes: Physics vs. Economics
-This chart compares the number of awards given in each respective category for the given year. This chart does not show data from all the years in the given data or all the categories of Nobel Prizes. However, the chart gives a representation and the overal trend from year to year of the number of prizes per category, being one. 
+This chart compares the number of awards given in each respective category (i.e. Economics and Physics) for the given year. This chart does not show data from all the years in the given data or all the categories of Nobel Prizes because of the sheer size of the dataset. However, the chart gives a representation and the overal trend from year to year of the number of prizes in the two categories, being one. 
 Here's the [laureate dataset](http://api.nobelprize.org/v1/laureate.json).
 
 ![Screen Shot 2021-10-27 at 6 59 01 PM](https://user-images.githubusercontent.com/67754864/139173397-5bfe12c3-3726-4dc8-8f11-8a252788d2ca.png)
